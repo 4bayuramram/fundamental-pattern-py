@@ -1,0 +1,12 @@
+# Soal Uji Pemahaman Variabel Python (10 Soal)
+
+1. Buat variabel bernama `x` berisi angka **10**, lalu ubah nilainya menjadi string **"sepuluh"**.
+2. Buat tiga variabel `a`, `b`, `c` dalam satu baris dengan nilai **1, 2, 3** lalu tampilkan.
+3. Tukar nilai dua variabel `m` dan `n` yang masing-masing bernilai **5** dan **9** tanpa variabel tambahan.
+4. Buat variabel list `data`, isi dengan tiga angka, lalu tambahkan satu angka baru.
+5. Buat variabel `nama` dengan nilai **"Ali"**, lalu ubah menjadi **"Budi"**. Tampilkan sebelum dan sesudah.
+6. Tunjukkan perbedaan **mutable** dan **immutable** menggunakan `int` dan `list`.
+7. Gunakan **type hint** untuk variabel `age` dan `name`, kemudian tampilkan nilainya.
+8. Lakukan **unpacking** dari list `[4, 5, 6]` ke tiga variabel lalu tampilkan.
+9. Buat variabel `counter` dengan nilai awal **0**, lalu tambahkan **1** menggunakan operasi `+=`.
+10. Buat dua variabel yang menunjuk ke list yang sama, ubah salah satunya, lalu tunjukkan efeknya pada keduanya.
