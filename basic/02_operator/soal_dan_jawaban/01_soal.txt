@@ -1,0 +1,33 @@
+
+
+
+LATIHAN OPERATOR PYTHON DASAR
+
+1. Buat program Python yang menjumlahkan dua angka 8 dan 4 menggunakan operator aritmatika (+), lalu tampilkan hasilnya.
+
+2. Buat program Python yang menghitung sisa bagi dari 15 % 4 menggunakan operator modulo (%), lalu tampilkan hasilnya.
+
+3. Buat program Python yang mengecek apakah 10 lebih besar dari 7 menggunakan operator perbandingan (>), lalu tampilkan hasilnya.
+
+4. Buat program Python yang mengecek apakah 5 sama dengan 5 menggunakan operator perbandingan (==), lalu tampilkan hasilnya.
+
+5. Buat program Python yang menggunakan operator logika AND untuk mengecek hasil dari:
+True and False
+
+6. Buat program Python yang mengecek apakah angka 3 ada di dalam list berikut menggunakan operator membership (in):
+
+data = [1, 2, 3, 4, 5]
+
+7. Buat program Python yang mengecek apakah variabel berikut bernilai None menggunakan operator identity (is):
+
+x = None
+
+8. Buat program Python yang menjumlahkan angka 6 dan 2 menggunakan fungsi operator.add()
+
+9. Buat program Python yang mengalikan angka 7 dan 3 menggunakan fungsi operator.mul()
+
+10. Buat program Python yang menambahkan angka 5 ke variabel berikut menggunakan operator.iadd()
+
+nilai = 10
+
+Tampilkan hasil akhirnya.
