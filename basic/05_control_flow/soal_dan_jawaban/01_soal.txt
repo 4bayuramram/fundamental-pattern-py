@@ -1,0 +1,45 @@
+SOAL CONTROL FLOW (IF, ELIF, ELSE) - PYTHON
+
+Instruksi:
+
+* Jawab setiap soal dengan menulis kode Python
+* Semua jawaban dikumpulkan dalam satu file (.py)
+
+---
+
+1. Buat program yang meminta input usia, lalu tampilkan:
+   "Dewasa" jika >= 18, selain itu "Anak-anak"
+
+2. Buat program yang meminta input nilai, lalu tampilkan:
+   "Lulus" jika nilai >= 75, selain itu "Tidak lulus"
+
+3. Buat program yang meminta input angka, lalu tampilkan:
+   "Positif" jika > 0, "Negatif" jika < 0, "Nol" jika == 0
+
+4. Buat program yang meminta input nilai (0–100), lalu tampilkan:
+   A (>=90), B (>=75), C (>=60), D (<60)
+
+5. Buat program yang meminta input dua angka, lalu tampilkan:
+   angka mana yang lebih besar
+
+6. Buat program yang meminta input username dan password:
+   Jika username = "admin" dan password = "123", tampilkan "Login berhasil"
+   selain itu "Login gagal"
+
+7. Buat program yang meminta input umur dan status pelajar (True/False):
+   Jika umur < 18 dan pelajar → "Diskon pelajar"
+   selain itu → "Tidak dapat diskon"
+
+8. Buat program yang meminta input hari (Senin–Minggu):
+   Jika Sabtu/Minggu → "Libur"
+   selain itu → "Hari kerja"
+
+9. Buat program yang meminta input angka:
+   Jika genap tampilkan "Genap", jika ganjil tampilkan "Ganjil"
+
+10. Buat program yang meminta input 3 angka:
+    Tampilkan angka terbesar dari ketiganya
+
+---
+
+Kumpulkan semua jawaban dalam 1 file Python.
