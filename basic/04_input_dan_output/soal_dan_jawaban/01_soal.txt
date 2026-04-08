@@ -1,0 +1,61 @@
+========================================
+LATIHAN SOAL PYTHON – INPUT & OUTPUT
+========================================
+Instruksi:
+----------------------------------------
+SOAL 1
+----------------------------------------
+Buat program yang meminta user memasukkan nama, lalu tampilkan:
+"Halo, <nama>!"
+
+----------------------------------------
+SOAL 2
+----------------------------------------
+Minta user memasukkan usia (integer), lalu tampilkan:
+"Usia kamu adalah <usia> tahun."
+
+----------------------------------------
+SOAL 3
+----------------------------------------
+Minta user memasukkan dua angka, lalu tampilkan hasil penjumlahan keduanya.
+
+----------------------------------------
+SOAL 4
+----------------------------------------
+Minta user memasukkan angka desimal (float), lalu tampilkan angka tersebut kembali dengan format:
+"Angka desimal yang kamu masukkan adalah <angka>"
+
+----------------------------------------
+SOAL 5
+----------------------------------------
+Buat program yang menampilkan tiga kata menggunakan print() tetapi dipisahkan dengan tanda "-" menggunakan parameter sep.
+
+----------------------------------------
+SOAL 6
+----------------------------------------
+Buat program yang menampilkan dua kalimat dalam SATU baris dengan menggunakan parameter end.
+
+----------------------------------------
+SOAL 7
+----------------------------------------
+Minta user memasukkan nama depan dan nama belakang, lalu tampilkan keduanya dalam satu kalimat menggunakan f-string.
+
+----------------------------------------
+SOAL 8
+----------------------------------------
+Minta user memasukkan bilangan bulat, lalu tampilkan:
+- hasil bilangan itu dikali 2
+- hasil bilangan itu dibagi 2
+
+----------------------------------------
+SOAL 9
+----------------------------------------
+Buat program yang meminta panjang dan lebar (float), lalu hitung luas persegi panjang dan tampilkan hasilnya.
+
+----------------------------------------
+SOAL 10
+----------------------------------------
+Buat mini program kalkulator sederhana yang:
+- meminta dua angka dari user
+- menampilkan hasil +, -, *, dan /
+Gunakan f-string agar output rapi.
