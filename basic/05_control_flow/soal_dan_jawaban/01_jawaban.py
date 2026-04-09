@@ -11,6 +11,7 @@ File ini berisi:
 Tujuan:
 Membantu pemula memahami cara berpikir (logic) dalam membuat percabangan
 """
+#jalankan file : python basic/05_control_flow/soal_dan_jawaban/01_jawaban.py
 
 # =========================================================
 # SOAL 1

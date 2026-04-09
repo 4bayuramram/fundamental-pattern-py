@@ -1,0 +1,21 @@
+SOAL LOOPING PYTHON – UNTUK PEMULA
+
+1. Buat for loop yang mencetak angka 0 sampai 4, satu per baris.
+
+2. Buat while loop yang mencetak angka 1 sampai 5.
+
+3. Buat list berisi nama 3 buah favoritmu, lalu gunakan for loop untuk mencetak setiap nama.
+
+4. Buat string "Python" dan gunakan for loop untuk mencetak setiap huruf pada string tersebut.
+
+5. Buat dictionary dengan 2 pasangan key-value (misal: {"nama": "Alice", "umur": 25}), lalu gunakan for loop untuk mencetak key dan value.
+
+6. Buat while loop yang menghitung mundur dari 5 ke 1, lalu cetak "Selesai!" setelah loop selesai.
+
+7. Buat for loop dari 0 sampai 5, tapi gunakan `continue` untuk melewati angka genap dan mencetak hanya angka ganjil.
+
+8. Buat for loop dari 0 sampai 5, dan gunakan `break` untuk menghentikan loop saat angka 3 tercapai.
+
+9. Buat nested loop: for i in range(2), for j in range(3), dan cetak i dan j dalam format "i=<i>, j=<j>".
+
+10. Buat list comprehension untuk membuat list berisi kuadrat angka dari 0 sampai 4.
