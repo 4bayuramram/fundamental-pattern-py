@@ -8,7 +8,7 @@ Pyhton dasar
 6.	Looping (for, while) 
 7.	Conditional + looping 
 8.	Function (def) 
-9.	List (array di JS) 
+9.	List
 10.	Dictionary (object di JS) 
 
 

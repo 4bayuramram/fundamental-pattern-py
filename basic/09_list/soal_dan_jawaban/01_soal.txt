@@ -1,0 +1,22 @@
+Soal List Python - Pemula
+=========================
+
+1. Buat list bernama 'buah' yang berisi: "apel", "pisang", "jeruk".
+
+2. Tambahkan elemen "mangga" ke list 'buah' menggunakan metode yang tepat.
+
+3. Ubah elemen kedua dalam list 'buah' menjadi "blueberry".
+
+4. Hapus elemen "jeruk" dari list 'buah'.
+
+5. Ambil elemen terakhir dari list 'buah' dan simpan dalam variabel 'terakhir'.
+
+6. Buat list angka dari 1 sampai 10, simpan dalam variabel 'angka', lalu cetak elemen dari indeks 3 sampai 7.
+
+7. Buat list baru bernama 'kuadrat_genap' yang berisi kuadrat dari angka genap dari 0 sampai 10 menggunakan list comprehension.
+
+8. Buat nested list 2x2 yang berisi angka 1 sampai 4, lalu cetak elemen di baris kedua kolom pertama.
+
+9. Gunakan metode list untuk membalik urutan list 'angka'.
+
+10. Cek apakah angka 5 ada di list 'angka' dan cetak hasilnya (True/False).
