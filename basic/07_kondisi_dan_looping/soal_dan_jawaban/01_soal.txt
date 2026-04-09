@@ -1,0 +1,25 @@
+SOAL CONDITIONAL & LOOPING PYTHON
+
+1. Buatlah program yang mengecek apakah sebuah angka yang dimasukkan user positif, negatif, atau nol.
+
+2. Buat program untuk mengecek apakah sebuah angka yang dimasukkan user genap atau ganjil.
+
+3. Buat program yang mencetak semua angka dari 1 sampai 10 menggunakan while loop.
+
+4. Buat program yang mencetak semua item dalam list fruits = ["apple", "banana", "cherry"] menggunakan for loop.
+
+5. Buat program yang menampilkan angka dari 1 sampai 10, tetapi hentikan perulangan ketika angka = 7 (gunakan break).
+
+6. Buat program yang mencetak angka dari 1 sampai 10, tetapi lewati angka 5 (gunakan continue).
+
+7. Buat program nested loop untuk mencetak pasangan (i, j) dimana i dari 1 sampai 2 dan j dari 1 sampai 3.
+
+8. Buat program yang mencetak semua bilangan genap dari list numbers = [1,2,3,4,5,6,7,8,9,10] menggunakan list comprehension.
+
+9. Buat program yang meminta input angka dari user, kemudian:
+   - Cetak "FIZZ" jika angka habis dibagi 3
+   - Cetak "BUZZ" jika angka habis dibagi 5
+   - Cetak "FIZZBUZZ" jika angka habis dibagi 3 dan 5
+   - Cetak angka itu sendiri jika tidak memenuhi ketentuan di atas
+
+10. Buat program yang menghitung jumlah semua angka dari 1 sampai 100 menggunakan for loop, kemudian cetak hasilnya.
