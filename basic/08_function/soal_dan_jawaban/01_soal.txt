@@ -1,0 +1,21 @@
+Soal Function Python - Pemula
+
+1. Buatlah fungsi bernama greet() yang mencetak "Hello, World!" ketika dipanggil.
+
+2. Buat fungsi greet_name(name) yang menerima satu parameter name dan mencetak "Hello, <name>!".
+
+3. Buat fungsi add(a, b) yang mengembalikan hasil penjumlahan kedua parameter a dan b. Panggil fungsi ini untuk 5 + 7 dan tampilkan hasilnya.
+
+4. Buat fungsi power(base, exponent=2) yang mengembalikan base dipangkatkan exponent. Coba panggil dengan 3 dan dengan 2, 3.
+
+5. Buat fungsi sum_all(*numbers) yang menerima banyak angka dan mengembalikan total jumlahnya. Uji dengan 1,2,3,4,5.
+
+6. Buat fungsi describe_person(name, **info) yang mencetak name dan semua info tambahan. Contoh: describe_person("Alice", age=25, city="Jakarta").
+
+7. Buat lambda function untuk menghitung kuadrat dari sebuah angka. Uji dengan angka 6.
+
+8. Buat nested function outer(msg) yang mendefinisikan inner() yang mencetak "Inner says: <msg>". Panggil outer("Hello").
+
+9. Buat fungsi greet_typed(name: str) -> str yang mengembalikan "Hello, <name>!". Panggil fungsi ini dengan nama "Bob".
+
+10. Buat fungsi multiply(a: int, b: int) -> int dengan docstring "Mengalikan dua bilangan dan mengembalikan hasilnya". Panggil multiply(4,5) dan tampilkan docstring.
