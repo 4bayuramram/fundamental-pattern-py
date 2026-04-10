@@ -1,0 +1,32 @@
+SOAL 1
+Buat dictionary bernama `student` dengan key "name" = "Alice" dan "age" = 20, lalu print dictionary tersebut.
+
+SOAL 2
+Tambahkan key "major" dengan value "Physics" ke dictionary `student`. Print hasilnya.
+
+SOAL 3
+Ubah value key "age" menjadi 21. Print hasil dictionary `student`.
+
+SOAL 4
+Hapus key "major" dari dictionary `student`. Print hasilnya.
+
+SOAL 5
+Gunakan method `.get()` untuk mengambil value key "name" dari dictionary `student` dan print hasilnya. Ambil juga key "city" dengan default value "Unknown".
+
+SOAL 6
+Buat dictionary comprehension untuk membuat dictionary `squares` yang berisi angka 0-4 sebagai key dan kuadratnya sebagai value. Print dictionary `squares`.
+
+SOAL 7
+Looping dictionary `student` untuk print setiap key dan value dalam format "Key: <key>, Value: <value>".
+
+SOAL 8
+Buat nested dictionary bernama `classroom` dengan dua siswa:
+- "student1": {"name": "Alice", "age": 20}
+- "student2": {"name": "Bob", "age": 22}
+Print umur "student2".
+
+SOAL 9
+Buat salinan dictionary `student` menggunakan `.copy()` lalu ubah value key "name" di salinan menjadi "Charlie". Print kedua dictionary untuk melihat perbedaan.
+
+SOAL 10
+Gunakan `.items()` untuk looping dictionary `student` dan print semua pasangan key-value.
