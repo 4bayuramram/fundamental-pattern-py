@@ -1,0 +1,61 @@
+SOAL PYTHON DASAR UNTUK PEMULA
+
+1. Tipe Data
+Buat variabel berikut dan tampilkan semuanya:
+- umur = 20
+- tinggi = 165.5
+- nama = "Andi"
+- mahasiswa = True
+
+2. Operator Aritmatika
+Hitung dan tampilkan hasil:
+- 15 + 7
+- 10 - 3
+- 4 * 6
+- 20 / 4
+- 7 % 3
+
+3. Operator Logika dan Perbandingan
+Buat variabel: a = 10, b = 5
+Tampilkan hasil:
+- a > b
+- a < b
+- a == b
+- a != b
+- (a > 5) and (b < 10)
+
+4. Input dan Output
+Minta user memasukkan nama dan umur.
+Tampilkan: "Nama kamu ___ dan umur kamu ___ tahun"
+
+5. Control Flow (if, elif, else)
+Minta user memasukkan angka.
+Tampilkan:
+- "Positif" jika >0
+- "Negatif" jika <0
+- "Nol" jika =0
+
+6. Looping For
+Tampilkan angka 1 sampai 10 menggunakan for
+
+7. Looping While + Conditional
+Minta user memasukkan angka >0
+Tampilkan angka dari angka itu sampai 1 menggunakan while
+
+8. Function (def)
+Buat fungsi luas_persegi_panjang(p, l) yang mengembalikan luas
+Cetak hasil luas untuk p=5 dan l=10
+
+9. List
+Buat list berisi nama-nama temanmu
+Tampilkan:
+- Semua nama
+- Nama pertama
+- Nama terakhir
+
+10. Dictionary
+Buat dictionary mahasiswa dengan key: nama, umur, jurusan
+Tampilkan:
+- Nama mahasiswa
+- Umur mahasiswa
+- Jurusan mahasiswa

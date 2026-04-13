@@ -1,0 +1,148 @@
+PERSIAPAN DAN PROSES BELAJAR MATERI I/O DALAM PYTHON
+UNTUK BACKEND DEVELOPMENT
+
+1. TUJUAN PEMBELAJARAN
+
+- Memahami bagaimana Python berinteraksi dengan dunia luar,
+  termasuk input dari user, output program, file, dan request data.
+- Menjadi dasar penting untuk backend development
+  sebelum masuk ke framework seperti Flask atau Django.
+
+Python backend fokus pada:
+- menerima data (input)
+- memproses data (logic)
+- mengirim hasil (output)
+
+--------------------------------------------
+
+2. TEKNOLOGI DAN SOFTWARE YANG DIBUTUHKAN
+
+- Python (versi terbaru)
+  Bahasa utama untuk backend development.
+
+- VS Code
+  Editor kode untuk menulis dan menjalankan Python.
+
+- Terminal / Command Line
+  Untuk menjalankan script Python dan testing program.
+
+- pip (Python package manager)
+  Untuk install library tambahan.
+
+- Virtual Environment (venv)
+  Untuk mengatur dependency project agar rapi.
+
+- Postman (opsional)
+  Untuk testing API saat masuk ke backend web.
+
+- Framework Python (lanjutan)
+  Seperti Flask atau Django untuk web backend.
+
+--------------------------------------------
+
+3. MATERI DASAR YANG HARUS DIKUASAI
+
+- Tipe Data (int, float, str, bool, list, dict)
+- Variable
+- Operator (aritmatika, logika, perbandingan)
+- Control Flow (if, elif, else)
+- Looping (for, while)
+- Function (def)
+
+Catatan:
+Materi ini harus benar-benar kuat
+sebelum masuk I/O dan backend.
+
+--------------------------------------------
+
+4. PENGANTAR MATERI I/O PYTHON
+
+- Input User (input())
+  Menerima data dari keyboard.
+
+- Output (print())
+  Menampilkan hasil ke layar.
+
+- File Handling
+  - open()
+  - read()
+  - write()
+  Untuk menyimpan dan mengambil data dari file.
+
+- Basic CLI Interaction
+  Program berjalan di terminal
+  dan berinteraksi langsung dengan user.
+
+--------------------------------------------
+
+5. KONSEP INTI BACKEND PYTHON
+
+Hampir semua sistem backend berjalan dengan konsep:
+
+INPUT  →  PROCESS  →  OUTPUT
+
+Penjelasan:
+- Input  : data dari user / API / file
+- Process: data diolah dengan Python logic
+- Output : hasil dikirim kembali atau disimpan
+
+Contoh:
+User kirim data → Python proses → simpan ke file/database
+
+--------------------------------------------
+
+6. TANTANGAN YANG PERLU DIANTISIPASI
+
+- Perbedaan input type (string vs int)
+- Error handling (input tidak valid)
+- File path dan permission
+- Konsep data flow dalam program
+- Debugging di terminal
+
+--------------------------------------------
+
+7. LANGKAH-LANGKAH BELAJAR
+
+1) Setup Environment:
+   - Install Python
+   - Install VS Code
+   - Setup terminal / command line
+
+2) Input / Output dasar:
+   - input()
+   - print()
+
+3) Control Flow + I/O:
+   - if + input
+   - loop + input
+
+4) File Handling:
+   - open(), read(), write()
+   - latihan CRUD file sederhana
+
+5) Mini Project CLI:
+   - kalkulator
+   - to-do list
+   - sistem login sederhana
+
+6) Persiapan Backend:
+   - belajar struktur project
+   - mulai kenal API konsep
+   - lanjut ke Flask / Django
+
+--------------------------------------------
+
+8. KESIMPULAN
+
+I/O dalam Python adalah jembatan penting
+antara dasar pemrograman dan backend development.
+
+Dengan memahami I/O, kamu bisa:
+- membuat program interaktif
+- mengelola data dari luar
+- mempersiapkan diri ke backend framework
+
+Tahap ini adalah transisi dari:
+"belajar syntax"
+menjadi:
+"membangun aplikasi"

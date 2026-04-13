@@ -9,7 +9,7 @@ Pyhton dasar
 7.	Conditional + looping 
 8.	Function (def) 
 9.	List
-10.	Dictionary (object di JS) 
+10.	Dictionary 
 
 
  “Interaksi Input/Output & Lingkungan Eksekusi Python”

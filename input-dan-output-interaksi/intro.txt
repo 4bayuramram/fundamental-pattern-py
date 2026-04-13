@@ -1,0 +1,125 @@
+PENGENALAN INPUT / OUTPUT (I/O) DALAM PYTHON
+
+Pada tahap dasar dalam belajar pemrograman Python, fokus utama biasanya adalah
+pada penulisan kode yang benar, menghindari error, dan memahami sintaks dasar.
+
+Pada tahap ini, kamu lebih banyak berfokus pada cara menulis kode yang benar,
+seperti variabel, tipe data, operator, serta struktur kontrol seperti
+if, for, dan while.
+
+Tujuan utama tahap ini adalah:
+- memahami cara kerja bahasa Python
+- memastikan kode tidak error
+- melatih logika dasar pemrograman
+
+Data yang digunakan pada tahap ini biasanya masih statis,
+artinya sudah ditentukan langsung di dalam kode.
+
+--------------------------------------------
+
+PERALIHAN KE INPUT / OUTPUT (I/O)
+
+Ketika kamu mulai masuk ke tahap Input/Output (I/O),
+cara berpikirmu dalam pemrograman mulai berubah.
+
+Kamu tidak hanya fokus pada “kode benar atau tidak”,
+tetapi mulai fokus pada:
+
+- bagaimana program menerima data
+- bagaimana data diproses
+- bagaimana hasil ditampilkan ke pengguna
+
+Di tahap ini, program mulai menjadi lebih hidup
+dan interaktif.
+
+--------------------------------------------
+
+PERBEDAAN BELAJAR BASIC DAN I/O
+
+BASIC (DASAR):
+- fokus pada sintaks Python
+- latihan logika sederhana
+- data ditulis langsung di dalam kode
+- tujuan: memahami bahasa pemrograman
+
+Contoh:
+x = 10
+y = 20
+print(x + y)
+
+Pada tahap ini, kamu belum berinteraksi dengan pengguna.
+
+--------------------------------------------
+
+INPUT / OUTPUT (I/O):
+- program mulai berinteraksi dengan user
+- data tidak lagi statis
+- program menerima input dari luar
+- hasil ditampilkan sebagai output
+
+Contoh:
+name = input("Masukkan nama: ")
+print("Halo", name)
+
+Pada tahap ini, program menjadi dinamis
+karena bisa merespon input pengguna.
+
+--------------------------------------------
+
+KONSEP UTAMA PROGRAM
+
+Hampir semua program di dunia nyata berjalan dengan konsep:
+
+INPUT  →  PROCESS  →  OUTPUT
+
+Penjelasan:
+- Input  : data masuk dari user atau sistem
+- Process: data diolah oleh program
+- Output : hasil ditampilkan atau disimpan
+
+Contoh sederhana:
+User memasukkan angka → program menghitung → hasil ditampilkan
+
+--------------------------------------------
+
+MENGAPA I/O ITU PENTING?
+
+Dalam dunia nyata, program tidak hanya berjalan sendiri,
+tetapi harus berinteraksi dengan pengguna atau sistem lain.
+
+Contoh:
+- aplikasi web menerima data dari form
+- sistem login menerima username dan password
+- aplikasi kasir menerima input transaksi
+
+Tanpa I/O, program hanya menjadi latihan kode,
+bukan aplikasi yang bisa digunakan.
+
+--------------------------------------------
+
+PERUBAHAN CARA BERPIKIR
+
+Sebelum belajar I/O:
+- fokus pada benar atau salahnya syntax
+- fokus pada error atau tidaknya kode
+
+Setelah masuk I/O:
+- fokus pada bagaimana program digunakan
+- fokus pada alur data dan interaksi
+- fokus pada hasil yang berguna
+
+--------------------------------------------
+
+KESIMPULAN
+
+- BASIC = belajar bahasa Python
+- I/O    = belajar membuat program interaktif
+- ADVANCED = belajar struktur aplikasi
+
+I/O adalah langkah pertama
+menuju pembuatan program nyata
+yang bisa digunakan oleh orang lain.
+
+Dengan memahami I/O, kamu mulai
+berpindah dari sekedar menulis kode
+menjadi membangun aplikasi.
